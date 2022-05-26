@@ -49,3 +49,9 @@ main h2 {
     background-color: green;
     color: white;
 }
+
+.huff-style {
+    color: magenta;
+    background-color: black;
+    padding: 5px;
+}
